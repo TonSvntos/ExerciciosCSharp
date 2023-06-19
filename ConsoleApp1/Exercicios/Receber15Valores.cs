@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.Exercicios
+namespace ExerciciosCSharp.Exercicios
 {
     internal class Receber15Valores
     {
