@@ -1,5 +1,7 @@
 ﻿using ExerciciosCSharp.Exercicios;
 using ExerciciosCSharp.IfElse;
+using ExerciciosCSharp.Matriz;
+using ExerciciosCSharp.CodeWars;
 
 namespace Program
 {
@@ -22,6 +24,20 @@ namespace Program
 
                 { "6 - Número negativo ou não", NegativoOuNao.Executar  },
                 { "7 - Número par ou impar", ImparPar.Executar  },
+
+                //Matriz
+                { "8 - Percorrer Matriz", PercorrerMatriz.Executar  },
+
+                //Code Wars
+                { "9 - ArrayDiff", ArrayDiff.Executar },
+                { "10 - Disemvowel", Disemvowel.Executar },
+                { "11 - Accum", Accum.Executar },
+                { "12 - BuildTower", BuildTower.Executar },
+                { "13 - Replace With Alphabet Position", ReplaceWithAlphabetPosition.Executar },
+                { "14 - Are they the \"same\"?", ReplaceWithAlphabetPosition.Executar }
+
+
+
 
 
 
